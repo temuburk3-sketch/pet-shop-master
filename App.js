@@ -108,7 +108,7 @@ const PetShopMaster = () => {
       <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center p-4">
         <div className="bg-white rounded-2xl shadow-2xl p-8 max-w-md w-full text-center">
           <div className="text-6xl mb-6">🐾</div>
-          <h1 className="text-4xl font-bold text-gray-800 mb-2">Pet Shop Master</h1>
+          <h1 className="text-4xl font-bold text-gray-800 mb-2">Çağdaş Petmarket</h1>
           <p className="text-gray-600 mb-8">Evcil Hayvan Dükkânı Yönetim Sistemi v2.0</p>
           
           <p className="text-gray-700 font-semibold mb-6">Cihazınızı Seçin:</p>
@@ -215,7 +215,7 @@ const PetShopMaster = () => {
         <div className={`bg-white rounded-lg shadow-2xl ${isMobile ? 'p-6 max-w-sm' : 'p-8 max-w-md'} w-full`}>
           <div className="text-center mb-8">
             <div className="text-5xl mb-2">🐾</div>
-            <h1 className="text-3xl font-bold text-gray-800">Pet Shop Master</h1>
+            <h1 className="text-3xl font-bold text-gray-800">Çağdaş Petmarket</h1>
             <p className="text-gray-600 mt-2 text-sm">Evcil Hayvan Dükkânı Yönetim Sistemi</p>
             <div className="mt-3 space-y-1">
               <p className="text-xs bg-blue-100 text-blue-700 px-3 py-1 rounded-full inline-block">
